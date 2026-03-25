@@ -69,7 +69,7 @@ function render(items) {
                 </div>
                 
                 <div class="text-right">
-                    <p class="font-bold text-lg ${colorBs} tracking-tight">
+                    <p class="font-bold ${colorBs} tracking-tight">
                         ${montoFormateado} Bs.
                     </p>
                     
